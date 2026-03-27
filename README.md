@@ -32,3 +32,10 @@ TensorFlow를 활용하여 대학원 합격 여부를 예측하는 이진 분류
 | Admit  | 합격 여부 (0 or 1) |
 
 ---
+
+26/03/27 진행
+📌 MNIST 숫자 분류 (Softmax Regression)
+파일명 : mnist_classification.py
+
+TensorFlow 2.0을 활용하여 MNIST 데이터셋 기반의 숫자 분류 모델을 구현하였다.
+Softmax Regression을 이용한 다중 클래스 분류 문제를 해결하고, 약 91%의 정확도를 달성함을 테스트 하였다.
